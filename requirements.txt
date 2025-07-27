@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pickle-mixin==1.0.2 # Specific version for pickle
